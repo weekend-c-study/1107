@@ -1,0 +1,2 @@
+D:\c_workspace\day1107\Debug\day1107.exe
+D:\c_workspace\day1107\Debug\day1107.pdb
